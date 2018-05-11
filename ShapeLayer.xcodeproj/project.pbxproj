@@ -12,6 +12,7 @@
 		9D06DC7820A4DDCC00759CF2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D06DC7620A4DDCC00759CF2 /* Main.storyboard */; };
 		9D06DC7A20A4DDCF00759CF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D06DC7920A4DDCF00759CF2 /* Assets.xcassets */; };
 		9D06DC7D20A4DDCF00759CF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D06DC7B20A4DDCF00759CF2 /* LaunchScreen.storyboard */; };
+		9D06DC8520A4E0F900759CF2 /* YiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D06DC8420A4E0F900759CF2 /* YiView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9D06DC7920A4DDCF00759CF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D06DC7C20A4DDCF00759CF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D06DC7E20A4DDCF00759CF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D06DC8420A4E0F900759CF2 /* YiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YiView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9D06DC7920A4DDCF00759CF2 /* Assets.xcassets */,
 				9D06DC7B20A4DDCF00759CF2 /* LaunchScreen.storyboard */,
 				9D06DC7E20A4DDCF00759CF2 /* Info.plist */,
+				9D06DC8420A4E0F900759CF2 /* YiView.swift */,
 			);
 			path = ShapeLayer;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				9D06DC7520A4DDCC00759CF2 /* ViewController.swift in Sources */,
 				9D06DC7320A4DDCC00759CF2 /* AppDelegate.swift in Sources */,
+				9D06DC8520A4E0F900759CF2 /* YiView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
